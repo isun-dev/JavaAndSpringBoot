@@ -10,6 +10,7 @@
 2) 변수 추출: Ctrl+Alt+V
 3) 메소드 추출 : Ctrl+Alt+M
 4) 최근 실행했던 테스트 파일 실행하기: Shift + F10
+5) Change the highlighting level for a file : Ctrl+Alt+Shift+H
 
 # 인텔리제이 맥 단축키
 1) 최근 실행했던 테스트 파일 실행하기: control + R
