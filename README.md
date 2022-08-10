@@ -11,6 +11,8 @@
 3) 메소드 추출 : Ctrl+Alt+M
 4) 최근 실행했던 테스트 파일 실행하기: Shift + F10
 5) Change the highlighting level for a file : Ctrl+Alt+Shift+H
+6) Compare any text sources(두 파일 비교):
+  - 단축키 Ctrl+Shift+A 클릭 -> Open Blank Diff Window를 타이핑 -> 왼쪽, 오른쪽에 각각 내용 기재 -> 비교진행
 
 # 인텔리제이 맥 단축키
 1) 최근 실행했던 테스트 파일 실행하기: control + R
