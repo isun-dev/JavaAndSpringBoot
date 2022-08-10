@@ -13,6 +13,7 @@
 5) Change the highlighting level for a file : Ctrl+Alt+Shift+H
 6) Compare any text sources(두 파일 비교):
   - 단축키 Ctrl+Shift+A 클릭 -> Open Blank Diff Window를 타이핑 -> 왼쪽, 오른쪽에 각각 내용 기재 -> 비교진행
+7) 컬럼선택모드: https://forgiveall.tistory.com/454
 
 # 인텔리제이 맥 단축키
 1) 최근 실행했던 테스트 파일 실행하기: control + R
@@ -24,3 +25,8 @@
 1) given -> 무언가가 주어졌을 때
 2) when -> 주어진 무언가를 실행했을 때
 3) then -> 어떠한 결과가 나와야 한다
+
+# 인텔리제이 플러그인 추천
+## 노트 플러그인 추천
+- https://plugins.jetbrains.com/plugin/16998-notebook    >> 분류를 좀 더 상세하게 할 수 있는 플러그인
+- https://plugins.jetbrains.com/plugin/13006-sidenotes   >> 메모장처럼 가볍게 쓰기 좋은 플러그인
