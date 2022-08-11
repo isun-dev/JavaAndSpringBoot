@@ -15,6 +15,7 @@
   - 단축키 Ctrl+Shift+A 클릭 -> Open Blank Diff Window를 타이핑 -> 왼쪽, 오른쪽에 각각 내용 기재 -> 비교진행
 7) 컬럼선택모드: https://forgiveall.tistory.com/454
 8) 대소문자 변환: Ctrl + Shift + U
+9) 스네이크케이스 및 카멜케이스 변환 : Alt + Shift + U
 
 # 인텔리제이 맥 단축키
 1) 최근 실행했던 테스트 파일 실행하기: control + R
