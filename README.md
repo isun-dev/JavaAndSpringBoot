@@ -23,6 +23,7 @@
 14) Ctrl+Alt+Shift+T : 리팩토링(이름바꾸기 등등 기능 포함)
 15) Alt+F7 : 사용하는 곳 찾아주는 단축키
 16) 배열, 리스트 for문 단축키: iter치고 tab누르면 바로 foreach문 나옴.
+17) 17) sout 치면 바로 System.out.println 나옴.
 
 # 인텔리제이 맥 단축키
 1) 최근 실행했던 테스트 파일 실행하기: control + R
