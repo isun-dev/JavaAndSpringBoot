@@ -16,6 +16,12 @@
 7) 컬럼선택모드: https://forgiveall.tistory.com/454
 8) 대소문자 변환: Ctrl + Shift + U
 9) 스네이크케이스 및 카멜케이스 변환 : Alt + Shift + U
+10) Alt+Enter : Show Context Actions
+11) Ctrl+E : 최근 연 파일 보기
+12) Ctrl+B : 정의된 곳으로 이동
+13) Ctrl+Shift+Enter : 현재 구문 완성
+14) Ctrl+Alt+Shift+T : 리팩토링(이름바꾸기 등등 기능 포함)
+15) Alt+F7 : 사용하는 곳 찾아주는 단축키
 
 # 인텔리제이 맥 단축키
 1) 최근 실행했던 테스트 파일 실행하기: control + R
