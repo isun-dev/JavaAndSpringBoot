@@ -24,6 +24,11 @@
 15) Alt+F7 : 사용하는 곳 찾아주는 단축키
 16) 배열, 리스트 for문 단축키: iter치고 tab누르면 바로 foreach문 나옴.
 17) 17) sout 치면 바로 System.out.println 나옴.
+18) ctrl + alt + b : 구현체를 바로 선택할 수 있는 단축키
+19) ctrl + f12 : 소스트리 확인 가능 단축키
+20) 단축어: soutm 은 메소드의 이름을 자동으로 파라미터에 넣어준다.
+System.out.println("call AppConfig.orderService");
+
 
 # 인텔리제이 맥 단축키
 1) 최근 실행했던 테스트 파일 실행하기: control + R
